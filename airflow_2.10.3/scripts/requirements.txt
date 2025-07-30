@@ -1,0 +1,7 @@
+apache-airflow[celery, statsd]==2.10.0
+apache-airflow-providers-amazon==4.1.0
+apache-airflow-providers-celery>=3.3.0
+awscli==1.35.3
+statsd-exporter==3.2.1
+awscli==1.35.3
+flower==2.0.1
